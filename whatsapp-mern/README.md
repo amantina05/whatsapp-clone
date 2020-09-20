@@ -6,7 +6,11 @@
 
 #### Check out my deployed web app:
 
-[Whatsapp Clone](https://clone-bc84a.web.app/ 'Whatsapp Clone')
+[Whatsapp Clone](https://whatsapp-mern-996db.web.app/ 'Whatsapp Clone')
+
+#### Check out the backend repo:
+
+[Whatsapp Clone Frontend](https://github.com/amantina05/whatsapp-backend/ 'Whatsapp Clone Frontend')
 
 #### Marketing copy:
 
