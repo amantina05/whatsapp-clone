@@ -10,7 +10,7 @@
 
 #### Check out the backend repo:
 
-[Whatsapp Clone Frontend](https://github.com/amantina05/whatsapp-backend/ 'Whatsapp Clone Frontend')
+[Whatsapp Clone Backend](https://github.com/amantina05/whatsapp-backend/ 'Whatsapp Clone Backend')
 
 #### Marketing copy:
 
