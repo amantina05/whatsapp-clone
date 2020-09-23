@@ -14,7 +14,7 @@
 
 #### Marketing copy:
 
-A clone of the search engine Google. This project was created by following a Live Stream video from CleverProgrammer YouTube channel.
+A clone of the messaging app Whatsapp. This project was created by following a Live Stream video from CleverProgrammer YouTube channel.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
